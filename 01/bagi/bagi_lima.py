@@ -1,5 +1,5 @@
 def bagi_lima(a):
-    result = a / 5
+    result = a / 3
     return result
 
 if __name__ == '__main__':
